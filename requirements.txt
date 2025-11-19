@@ -2,6 +2,6 @@ pandas
 matplotlib
 numpy
 seaborn
-sklearn
+scikit-learn
 category_encoders
 IPython
