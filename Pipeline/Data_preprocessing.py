@@ -4,6 +4,7 @@ import warnings
 #from pathlib import Path
 
 import pandas as pd
+from pandas.api.types import CategoricalDtype
 
 # Mute warnings
 warnings.filterwarnings('ignore')
